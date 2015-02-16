@@ -1,0 +1,4 @@
+------Put any ideas or pictures here------
+
+1. Dynamic webpage that has small Javascript animations displaying information about why birds matter.
+2. A few links to external information, documentation about birds
