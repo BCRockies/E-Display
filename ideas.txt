@@ -2,3 +2,4 @@
 
 1. Dynamic webpage that has small Javascript animations displaying information about why birds matter.
 2. A few links to external information, documentation about birds
+3. Not a typical webpage, but focus on an electronic display specifically for RBO event!
