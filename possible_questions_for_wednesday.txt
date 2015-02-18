@@ -6,3 +6,5 @@
 6.  Does a single webpage containing information and javascript elements sound interesting to you?
       6.5  Would you like to see references to other sources of information or focus strictly on your name and company?
 7.  On what medium do you want to present the display? (tablet, computer and mouse, touchscreen computer, phone)
+8.  Are you more concerned about presenting something that's aesthetically pleasing and interactive, or informative? Or a mix?
+9.  As far as format goes, are there any specific mediums that you want this presentation in?
