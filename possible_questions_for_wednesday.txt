@@ -1,5 +1,8 @@
-What is the general audience that you would like to direct the educational materials to?
-  If there are multiple audiences (i.e. ranchers, students, etc), which would you prefer to be the focus of the project?
-Where do you plan to display these materials?
-What situations would you like to use these materials for (i.e. on-the-go, in a private presentation, as a booth item)?
-Would you like to have students be able to interact with the materials or would you rather have a presenter use them?
+1.  What is the general audience that you would like to direct the educational materials to?
+2.  If there are multiple audiences (i.e. ranchers, students, etc), which would you prefer to be the focus of the project?
+3.  Where do you plan to display these materials?
+4.  What situations would you like to use these materials for (i.e. on-the-go, in a private presentation, as a booth item)? **
+5.  Would you like to have students be able to interact with the materials or would you rather have a presenter use them?
+6.  Does a single webpage containing information and javascript elements sound interesting to you?
+      6.5  Would you like to see references to other sources of information or focus strictly on your name and company?
+7.  On what medium do you want to present the display? (tablet, computer and mouse, touchscreen computer, phone)
