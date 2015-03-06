@@ -1,7 +1,8 @@
 /** STYLES **/
 
 .tile {
-  height: 75px !important;
+  height: 4em !important;
+  font-size: 1.25em;
 }
 
 header h1 {
@@ -10,4 +11,8 @@ header h1 {
 
 .back-button {
   font-size: 1.5em !important;
+}
+
+#tile-1 {
+  background-color: #4285f4;
 }
