@@ -1,5 +1,10 @@
-------Put any ideas or pictures here------
+------ Goal ------
+1. Dynamic and responsive webpage that displays interactive information about why birds matter.
+2. A few links to external information, documentation about birds.
+3. Add sounds for each bird in their respective tiles.
+4. Not a typical webpage, but focus on an electronic display specifically for RBO event!
 
-1. Dynamic webpage that has small Javascript animations displaying information about why birds matter.
-2. A few links to external information, documentation about birds
-3. Not a typical webpage, but focus on an electronic display specifically for RBO event!
+------ Visual Design ---
+1. Tiles with punchlines & background-images.
+2. Swipe to slide feature between tiles?
+3. Add aesthetic animations to fine-tune design.
