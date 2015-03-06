@@ -1,1 +1,9 @@
 /** STYLES **/
+
+.tile {
+  height: 75px !important;
+}
+
+header h1 {
+  font-size: 2em !important;
+}
