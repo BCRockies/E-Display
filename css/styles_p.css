@@ -16,3 +16,7 @@ header h1 {
 #tile-1 {
   background-color: #4285f4;
 }
+
+.ui-page-theme-a {
+	text-shadow: none;
+}
