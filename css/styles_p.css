@@ -20,3 +20,7 @@ header h1 {
 .ui-page-theme-a {
 	text-shadow: none;
 }
+
+.info-banner {
+  width: 66.66% !important;
+}
