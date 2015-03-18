@@ -24,3 +24,8 @@ header h1 {
 .info-banner {
   width: 66.66% !important;
 }
+
+/* Tile Background Images */
+.tile-1 {
+  background: url('../assets/American_Dipper_Habitat.jpg') center no-repeat;
+}
