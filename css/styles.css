@@ -3,6 +3,8 @@
 .tile {
   height: 4em !important;
   font-size: 1.25em;
+  color: white !important;
+  text-shadow: 5px 5px 5px black !important;
 }
 
 header h1 {
@@ -29,3 +31,4 @@ header h1 {
 .tile-1 {
   background: url('../assets/American_Dipper_Habitat.jpg') center no-repeat;
 }
+
