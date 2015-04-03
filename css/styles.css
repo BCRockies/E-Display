@@ -1,7 +1,11 @@
 /** STYLES **/
+html, body {
+  font-family: "Helvetica Neue", Helvetic, sans-serif;
+  font-weight: lighter;
+}
 
 .tile {
-  height: 4em !important;
+  height: 7em !important;
   font-size: 1.25em;
   color: white !important;
   text-shadow: 5px 5px 5px black !important;
@@ -9,26 +13,36 @@
 
 header h1 {
   font-size: 2em !important;
+  font-weight: 200;
+}
+
+h2 {
+  font-weight: 200 !important;
 }
 
 .back-button {
-  font-size: 1.5em !important;
+  font-size: 2em !important;
 }
 
 #tile-1 {
-  background-color: #4285f4;
+  background: url("../assets/american-dipper.jpg");
+  /*background-color: #4285f4;*/
 }
 
 .ui-page-theme-a {
 	text-shadow: none;
 }
 
+.ui-block-a, .ui-block-b, .ui-block-c {
+  padding: 0 0.5em !important;
+}
+
 .info-banner {
-  width: 66.66% !important;
+  width: 100% !important;
 }
 
 /* Tile Background Images */
 .tile-1 {
-  background: url('../assets/American_Dipper_Habitat.jpg') center no-repeat;
+  /*background: url('../assets/American_Dipper_Habitat.jpg') center no-repeat;*/
 }
 
