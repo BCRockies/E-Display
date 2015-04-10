@@ -29,6 +29,11 @@ h2 {
   /*background-color: #4285f4;*/
 }
 
+.ui-content {
+  font-weight: 400;
+  background: rgba(255,255,255,0.8);
+}
+
 .ui-page-theme-a {
 	text-shadow: none;
 }
@@ -43,6 +48,6 @@ h2 {
 
 /* Tile Background Images */
 .tile-1 {
-  /*background: url('../assets/American_Dipper_Habitat.jpg') center no-repeat;*/
+  background: url("../assets/american_robin.jpg" ) center no-repeat;*/
 }
 
