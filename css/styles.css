@@ -1,6 +1,6 @@
 /** STYLES **/
 html, body {
-  font-family: "Helvetica Neue", Helvetic, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
   font-weight: lighter;
 }
 
@@ -43,6 +43,25 @@ h2 {
 
 /* Tile Background Images */
 .tile-1 {
-  /*background: url('../assets/American_Dipper_Habitat.jpg') center no-repeat;*/
+  background: url('../assets/AmericanRobin.jpg') center;
 }
 
+.tile-2 {
+  background: url('../assets/BlackBilledMagpie.jpg');
+}
+
+.tile-3 {
+  background: url('../assets/NorthernFlicker.jpg');
+}
+
+.tile-4 {
+  background: url('../assets/CommonMerganser.jpg') center;
+}
+
+.tile-5 {
+  background: url('../assets/WesternMeadowlark.jpg') center;
+}
+
+.tile-6 {
+  background: url('../assets/RedWingedBlackbird.jpg') center; 
+}
