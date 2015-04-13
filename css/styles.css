@@ -20,10 +20,6 @@ h2 {
   font-weight: 200 !important;
 }
 
-.back-button {
-  font-size: 2em !important;
-}
-
 #tile-1 {
   background: url("../assets/american-dipper.jpg");
   /*background-color: #4285f4;*/
@@ -74,5 +70,20 @@ h2 {
 
 .tile-6 {
   background: url('../assets/RedWingedBlackbird.jpg') center; 
+  background-size: cover;
+}
+
+.tile-7 {
+  background: url('../assets/BroadTailedHummingbird.jpg') center;
+  background-size: cover;
+}
+
+.tile-8 {
+  background: url('../assets/RedTailedHawk.jpg') center; 
+  background-size: cover;
+}
+
+.tile-9 {
+  background: url('../assets/BroadTailedHummingbird.jpg') center; 
   background-size: cover;
 }
