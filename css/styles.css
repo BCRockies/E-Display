@@ -49,10 +49,13 @@ h2 {
 /* Tile Background Images */
 .tile-1 {
   background: url('../assets/AmericanRobin.jpg') center;
+  background-size: cover;
 }
 
 .tile-2 {
   background: url('../assets/BlackBilledMagpie.jpg');
+  background-size: contain ;
+  background-repeat: repeat-x;
 }
 
 .tile-3 {
