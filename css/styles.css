@@ -5,7 +5,7 @@ html, body {
 }
 
 .tile {
-  height: 7em !important;
+  height: 8em !important;
   font-size: 1.25em;
   color: white !important;
   text-shadow: 5px 5px 5px black !important;
@@ -53,23 +53,26 @@ h2 {
 }
 
 .tile-2 {
-  background: url('../assets/BlackBilledMagpie.jpg');
-  background-size: contain ;
-  background-repeat: repeat-x;
+  background: url('../assets/BlackBilledMagpie.jpg') center;
+  background-size: cover;
 }
 
 .tile-3 {
-  background: url('../assets/NorthernFlicker.jpg');
+  background: url('../assets/NorthernFlicker.jpg') center;
+  background-size: cover;
 }
 
 .tile-4 {
   background: url('../assets/CommonMerganser.jpg') center;
+  background-size: cover;
 }
 
 .tile-5 {
   background: url('../assets/WesternMeadowlark.jpg') center;
+  background-size: cover;
 }
 
 .tile-6 {
   background: url('../assets/RedWingedBlackbird.jpg') center; 
+  background-size: cover;
 }
