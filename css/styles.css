@@ -11,23 +11,28 @@ html, body {
   text-shadow: 5px 5px 5px black !important;
 }
 
+p {
+  text-indent: 50px;
+}
+
 header h1 {
-  font-size: 2em !important;
+  font-size: 1.1em !important;
   font-weight: 200;
 }
 
 h2 {
-  font-weight: 200 !important;
+  font-weight: 1000 !important;
+  font-size: 2em;
 }
 
 #tile-1 {
-  background: url("../assets/american-dipper.jpg");
+  background: url("../assets/american-dipper-background.jpg");
   /*background-color: #4285f4;*/
 }
 
 .ui-content {
   font-weight: 400;
-  background: rgba(255,255,255,0.8);
+  background: rgba(255,255,255,0.7);
 }
 
 .ui-page-theme-a {
@@ -84,6 +89,6 @@ h2 {
 }
 
 .tile-9 {
-  background: url('../assets/BroadTailedHummingbird.jpg') center; 
+  background: url('../assets/AmericanDipper.jpg') center; 
   background-size: cover;
 }
