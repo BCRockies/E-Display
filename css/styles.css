@@ -26,17 +26,47 @@ h2 {
 }
 
 #tile-1 {
-  background: url("../assets/american-dipper-background.jpg");
+  background: url("../assets/american_robin_background.jpg") center;
   /*background-color: #4285f4;*/
 }
 
-#tile-1 {
-  background: url("../assets/american-dipper-background.jpg");
+#tile-2 {
+  background: url("../assets/black_billed_magpie_background.jpg");
+}
+
+#tile-3 {
+  background: url("../assets/northern_flicker_background.jpg") center;
+}
+
+#tile-4 {
+  background: url("../assets/common_merganser_background.jpg") center;
+}
+
+#tile-5 {
+  background: url("../assets/western_meadowlark_background.jpg") center;
+  background-size: 1400px 1000px !important;
+}
+
+#tile-6 {
+  background: url("../assets/red_winged_blackbird.jpg") ;
+}
+
+#tile-7 {
+  background: url("../assets/hummingbird_background.jpg") center;
+}
+
+#tile-8 {
+  background: url("../assets/red_tailed_hawk_background.jpg");
+  background-image: cover repeat-y;
+}
+
+#tile-9 {
+  background: url("../assets/american-dipper-background.jpg") center;
 }
 
 .ui-content {
   font-weight: 400;
-  background: rgba(255,255,255,0.7);
+  background: rgba(255,255,255,0.3);
 }
 
 .ui-page-theme-a {
