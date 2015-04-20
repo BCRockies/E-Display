@@ -30,6 +30,10 @@ h2 {
   /*background-color: #4285f4;*/
 }
 
+#tile-1 {
+  background: url("../assets/american-dipper-background.jpg");
+}
+
 .ui-content {
   font-weight: 400;
   background: rgba(255,255,255,0.7);
