@@ -28,18 +28,22 @@ h2 {
 #tile-1 {
   background: url("../assets/american_robin_background.jpg") center;
   /*background-color: #4285f4;*/
+  background-size: 1400px 1000px !important;
 }
 
 #tile-2 {
   background: url("../assets/black_billed_magpie_background.jpg");
+  background-size: 1400px 1000px !important;
 }
 
 #tile-3 {
   background: url("../assets/northern_flicker_background.jpg") center;
+  background-size: 1400px 1000px !important;
 }
 
 #tile-4 {
   background: url("../assets/common_merganser_background.jpg") center;
+  background-size: 1400px 1000px !important;
 }
 
 #tile-5 {
@@ -49,19 +53,23 @@ h2 {
 
 #tile-6 {
   background: url("../assets/red_winged_blackbird.jpg") ;
+  background-size: 1400px 1000px !important;
 }
 
 #tile-7 {
   background: url("../assets/hummingbird_background.jpg") center;
+  background-size: 1400px 1000px !important;
 }
 
 #tile-8 {
   background: url("../assets/red_tailed_hawk_background.jpg");
-  background-image: cover repeat-y;
+  background-size: 1400px 1000px !important;
+  
 }
 
 #tile-9 {
   background: url("../assets/american-dipper-background.jpg") center;
+  background-size: 1400px 1000px !important;
 }
 
 .ui-content {
