@@ -1,14 +1,8 @@
-/** STYLES **/
+/** ==================================================
+======================= STYLES =================== **/
 html, body {
   font-family: "Helvetica Neue", Helvetica, sans-serif;
   font-weight: lighter;
-}
-
-.tile {
-  height: 8em !important;
-  font-size: 1.25em;
-  color: black !important;
-  text-shadow: 5px 5px 5px black !important;
 }
 
 p {
@@ -25,61 +19,9 @@ h2 {
   font-size: 2em;
 }
 
-#tile-1 {
-  background: url("../assets/american_robin_background.jpg") center;
-  /*background-color: #4285f4;*/
-  background-size: 1400px 1000px !important;
-  color: white;
-}
-
-#tile-2 {
-  background: url("../assets/black_billed_magpie_background.jpg");
-  background-size: 1400px 1000px !important;
-  color: white;
-
-}
-
-#tile-3 {
-  background: url("../assets/northern_flicker_background.jpg") center;
-  background-size: 1400px 1000px !important;
-  color: white;
-}
-
-#tile-4 {
-  background: url("../assets/common_merganser_background.jpg") center;
-  background-size: 1400px 1000px !important;
-  color: white;
-}
-
-#tile-5 {
-  background: url("../assets/western_meadowlark_background.jpg") center;
-  background-size: 1400px 1000px !important;
-  color: white;
-}
-
-#tile-6 {
-  background: url("../assets/red_winged_blackbird.jpg") ;
-  background-size: 1400px 1000px !important;
-  color: white;
-}
-
-#tile-7 {
-  background: url("../assets/hummingbird_background.jpg") center;
-  background-size: 1400px 1000px !important;
-  color: white;
-}
-
-#tile-8 {
-  background: url("../assets/red_tailed_hawk_background.jpg");
-  background-size: 1400px 1000px !important;
-  color: white;
-  
-}
-
-#tile-9 {
-  background: url("../assets/american-dipper-background.jpg") center;
-  background-size: 1400px 1000px !important;
-  color: white;
+.ui-title {
+  width: 100%;
+  margin: 0 auto !important;
 }
 
 .ui-content {
@@ -88,18 +30,79 @@ h2 {
 }
 
 .ui-page-theme-a {
-	text-shadow: none;
+  text-shadow: none;
 }
 
 .ui-block-a, .ui-block-b, .ui-block-c {
   padding: 0 0.5em !important;
 }
 
-.info-banner {
-  width: 100% !important;
+/** --------- PAGES --------- **/
+#page-1 {
+  background: url("../assets/american_robin_background.jpg") center;
+  /*background-color: #4285f4;*/
+  background-size: 1400px 1000px !important;
+  color: white;
 }
 
-/* Tile Background Images */
+#page-2 {
+  background: url("../assets/black_billed_magpie_background.jpg");
+  background-size: 1400px 1000px !important;
+  color: white;
+
+}
+
+#page-3 {
+  background: url("../assets/northern_flicker_background.jpg") center;
+  background-size: 1400px 1000px !important;
+  color: white;
+}
+
+#page-4 {
+  background: url("../assets/common_merganser_background.jpg") center;
+  background-size: 1400px 1000px !important;
+  color: white;
+}
+
+#page-5 {
+  background: url("../assets/western_meadowlark_background.jpg") center;
+  background-size: 1400px 1000px !important;
+  color: white;
+}
+
+#page-6 {
+  background: url("../assets/red_winged_blackbird.jpg") ;
+  background-size: 1400px 1000px !important;
+  color: white;
+}
+
+#page-7 {
+  background: url("../assets/hummingbird_background.jpg") center;
+  background-size: 1400px 1000px !important;
+  color: white;
+}
+
+#page-8 {
+  background: url("../assets/red_tailed_hawk_background.jpg");
+  background-size: 1400px 1000px !important;
+  color: white;
+  
+}
+
+#page-9 {
+  background: url("../assets/american-dipper-background.jpg") center;
+  background-size: 1400px 1000px !important;
+  color: white;
+}
+
+/** --------- TILES --------- **/
+.tile {
+  height: 8em !important;
+  font-size: 1.25em;
+  color: black !important;
+  text-shadow: 5px 5px 5px black !important;
+}
+
 .tile-1 {
   background: url('../assets/AmericanRobin.jpg') center;
   background-size: cover;

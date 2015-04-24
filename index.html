@@ -9,27 +9,11 @@
 		<!-- <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script> -->
 		<script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
 		<script type="text/javascript" src="js/jquery.mobile-1.4.5.min.js"></script>
-		<script type="text/javascript" src="js/ion.sound.min.js"></script>
 		<script type="text/javascript" src="js/main.js"></script>
 
 		<!-- CSS -->
 		<link rel="stylesheet" type="text/css" href="css/jquery.mobile-1.4.5.min.css">
   	<link rel="stylesheet" type="text/css" href="css/styles.css">
-  	<script>
-
-	$(function(){
-    // Preload sounds
-    ion.sound({
-      sounds: [
-      	  {name: "American_Dipper"}
-          // {name: "bird"}
-      ],
-      path: "assets/",
-      preload: true,
-      volume: 1.0
-    });
-	});
-	</script>
 	</head>
 	
 	<body>
@@ -39,21 +23,21 @@
 				<h1 class="title">Can you name any of these birds? Tap one to find out more!</h1>
 			</header>
 			<div role="main" class="ui-grid-b ui-content">
-				<a href="#tile-1" class="ui-block-a ui-btn tile tile-1"></a>
-				<a href="#tile-2" class="ui-block-b ui-btn tile tile-2"></a>
-				<a href="#tile-3" class="ui-block-c ui-btn tile tile-3"></a>
-				<a href="#tile-4" class="ui-block-a ui-btn tile tile-4"></a>
-				<a href="#tile-5" class="ui-block-b ui-btn tile tile-5"></a>
-				<a href="#tile-6" class="ui-block-c ui-btn tile tile-6"></a>
-				<a href="#tile-7" class="ui-block-a ui-btn tile tile-7"></a>
-				<a href="#tile-8" class="ui-block-b ui-btn tile tile-8"></a>
-				<a href="#tile-9" class="ui-block-c ui-btn tile tile-9"></a>
+				<a href="#page-1" class="ui-block-a ui-btn tile tile-1"></a>
+				<a href="#page-2" class="ui-block-b ui-btn tile tile-2"></a>
+				<a href="#page-3" class="ui-block-c ui-btn tile tile-3"></a>
+				<a href="#page-4" class="ui-block-a ui-btn tile tile-4"></a>
+				<a href="#page-5" class="ui-block-b ui-btn tile tile-5"></a>
+				<a href="#page-6" class="ui-block-c ui-btn tile tile-6"></a>
+				<a href="#page-7" class="ui-block-a ui-btn tile tile-7"></a>
+				<a href="#page-8" class="ui-block-b ui-btn tile tile-8"></a>
+				<a href="#page-9" class="ui-block-c ui-btn tile tile-9"></a>
 			</div>
 		</div>
 		<!-- END HOME -->
 
 		<!-- TILE 1 -->
-		<div data-role="page" id="tile-1">
+		<div data-role="page" id="page-1">
 			<header data-role="header">
 				<h1>American Robin</h1>
 				<a href="#home" data-role="button" data-icon="arrow-l" data-inline="true" class="back-button ui-btn-left ui-btn-icon-left">Back</a>
@@ -79,7 +63,7 @@
 		<!-- 1 -->
 
 		<!-- TILE 2 -->
-		<div data-role="page" id="tile-2">
+		<div data-role="page" id="page-2">
 			<header data-role="header">
 				<h1>Black-Billed Magpie</h1>
 				<a href="#home" data-role="button" data-icon="arrow-l" data-inline="true" class="back-button ui-btn-left ui-btn-icon-left">Back</a>
@@ -102,7 +86,7 @@
 		<!-- 2 -->
 
 		<!-- TILE 3 -->
-		<div data-role="page" id="tile-3">
+		<div data-role="page" id="page-3">
 			<header data-role="header">
 				<h1>Northern Flicker</h1>
 				<a href="#home" data-role="button" data-icon="arrow-l" data-inline="true" class="back-button ui-btn-left ui-btn-icon-left">Back</a>
@@ -126,7 +110,7 @@
 		<!-- 3 -->
 
 		<!-- TILE 4 -->
-		<div data-role="page" id="tile-4">
+		<div data-role="page" id="page-4">
 			<header data-role="header">
 				<h1>Common Merganser</h1>
 				<a href="#home" data-role="button" data-icon="arrow-l" data-inline="true" class="back-button ui-btn-left ui-btn-icon-left">Back</a>
@@ -151,7 +135,7 @@
 		<!-- 4 -->
 
 		<!-- TILE 5 -->
-		<div data-role="page" id="tile-5">
+		<div data-role="page" id="page-5">
 			<header data-role="header">
 				<h1>Western Meadowlark</h1>
 				<a href="#home" data-role="button" data-icon="arrow-l" data-inline="true" class="back-button ui-btn-left ui-btn-icon-left">Back</a>
@@ -174,7 +158,7 @@
 		<!-- 5 -->
 
 		<!-- TILE 6 -->
-		<div data-role="page" id="tile-6">
+		<div data-role="page" id="page-6">
 			<header data-role="header">
 				<h1>Red-Winged Blackbird</h1>
 				<a href="#home" data-role="button" data-icon="arrow-l" data-inline="true" class="back-button ui-btn-left ui-btn-icon-left">Back</a>
@@ -197,7 +181,7 @@
 		<!-- 6 -->
 
 		<!-- TILE 7 -->
-		<div data-role="page" id="tile-7">
+		<div data-role="page" id="page-7">
 			<header data-role="header">
 				<h1>Broad-Tailed Hummingbird</h1>
 				<a href="#home" data-role="button" data-icon="arrow-l" data-inline="true" class="back-button ui-btn-left ui-btn-icon-left">Back</a>
@@ -220,7 +204,7 @@
 		<!-- 7 -->
 
 		<!-- TILE 8 -->
-		<div data-role="page" id="tile-8">
+		<div data-role="page" id="page-8">
 			<header data-role="header">
 				<h1>Red-Tailed Hawk</h1>
 				<a href="#home" data-role="button" data-icon="arrow-l" data-inline="true" class="back-button ui-btn-left ui-btn-icon-left">Back</a>
@@ -242,7 +226,7 @@
 		<!-- 8 -->
 
 		<!-- TILE 9 -->
-		<div data-role="page" id="tile-9">
+		<div data-role="page" id="page-9">
 			<header data-role="header">
 				<h1>American Dipper</h1>
 				<a href="#home" data-role="button" data-icon="arrow-l" data-inline="true" class="back-button ui-btn-left ui-btn-icon-left">Back</a>
