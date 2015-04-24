@@ -84,6 +84,7 @@ h2 {
 
 .ui-content {
   font-weight: 400;
+  background: rgba(0, 0, 0, 0.2);
 }
 
 .ui-page-theme-a {
