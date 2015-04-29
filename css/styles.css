@@ -123,7 +123,7 @@ figcaption {
 
 /** --------- TILES --------- **/
 .tile {
-  height: 8em !important;
+  height: 9em !important;
   font-size: 1.25em;
   color: black !important;
   text-shadow: 5px 5px 5px black !important;
