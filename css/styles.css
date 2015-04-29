@@ -5,13 +5,6 @@ html, body {
   font-weight: lighter;
 }
 
-figcaption {
-
-  color: gray;
-  font-size: .8em;
-
-}
-
 p {
   text-indent: 50px;
 }
@@ -34,6 +27,11 @@ h2 {
 .ui-content {
   font-weight: 400;
   background: rgba(0, 0, 0, 0.2);
+  height: 600px;
+}
+
+#home .ui-content {
+  background: rgb(255, 255, 255) !important;
 }
 
 .ui-page-theme-a {
@@ -42,6 +40,27 @@ h2 {
 
 .ui-block-a, .ui-block-b, .ui-block-c {
   padding: 0 0.5em !important;
+}
+
+figcaption {
+  color: gray;
+  font-size: .8em;
+}
+
+.logo-image {
+  display: block;
+  margin: 0 auto;
+}
+
+.ui-btn-left {
+  margin-left: 1em !important;
+  margin-top: 2.5px !important;
+}
+
+.ui-btn-right {
+  margin-right: 1em !important;
+  height: 15px !important;
+  margin-top: 2.5px !important;
 }
 
 /** --------- PAGES --------- **/
