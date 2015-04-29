@@ -5,6 +5,13 @@ html, body {
   font-weight: lighter;
 }
 
+figcaption {
+
+  color: gray;
+  font-size: .8em;
+
+}
+
 p {
   text-indent: 50px;
 }
