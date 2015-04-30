@@ -53,6 +53,11 @@ figcaption {
   width: 30%;
 }
 
+.ui-btn-left {
+  margin-left: 1em !important;
+  margin-top: 2.5px !important;
+}
+
 #home .ui-btn-left {
   margin-left: 1em !important;
   margin-top: 2.5px !important;
