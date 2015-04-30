@@ -27,10 +27,10 @@ h2 {
 .ui-content {
   font-weight: 400;
   background: rgba(0, 0, 0, 0.2);
-  height: 550px;
+  height: 575px;
 }
 
-#home .ui-content {
+#home .ui-content, #info .ui-content {
   background: rgb(255, 255, 255) !important;
 }
 
@@ -50,9 +50,10 @@ figcaption {
 .logo-image {
   display: block;
   margin: 0 auto;
+  width: 30%;
 }
 
-.ui-btn-left {
+#home .ui-btn-left {
   margin-left: 1em !important;
   margin-top: 2.5px !important;
 }
